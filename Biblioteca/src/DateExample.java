@@ -1,4 +1,4 @@
-import java.util.Calendar;
+
 
 import biblioteca.Studente;
 import biblioteca.Utente;
@@ -8,6 +8,7 @@ public class DateExample {
 
 	public static void main(String[] args) {
 		
+		/// change 1
 		
 //	    Calendar c1 = Calendar.getInstance();
 //	      Calendar c2 = Calendar.getInstance();
@@ -34,10 +35,25 @@ public class DateExample {
 //	      System.out.println("differenza con Giorno ( c2 - c1)   :"+giornoDiff); 
 //	      
 	  
-		Utente u= new Studente("AAA","BBB","asd",25);
-        
+//		Utente u= new Studente("AAA","BBB","asd",25);
+//        
+//		
+//		System.out.println( ((Studente) u).getMedia());
+//		
 		
-		System.out.println( ((Studente) u).getMedia());
+//		int a=5;
+//		int b=3;
+//		
+//		a=a^b;
+//		b=b^a;
+//		a=a^b;
+//		
+//		System.out.println("a="+a);
+//		System.out.println("b="+b);
+		
+
+		
+		
 	}
 
 }
