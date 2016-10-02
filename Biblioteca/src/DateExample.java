@@ -9,6 +9,7 @@ public class DateExample {
 	public static void main(String[] args) {
 		
 		/// change 1
+		// change 3
 		
 //	    Calendar c1 = Calendar.getInstance();
 //	      Calendar c2 = Calendar.getInstance();
